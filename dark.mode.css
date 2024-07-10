@@ -1,9 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
-@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Libre+Barcode+128+Text&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
 
 /****ADDONS****/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
@@ -201,7 +196,7 @@
 }
 
 .theme-dark .wordmark_a934d8::before {
-    content: "‏‏‎ c h i l l a x";
+    content: "‏‏‎DISCORD MESSENGER";
     font-size: 12px;
     font-family: "Poiret one" !important;
     position: fixed;
